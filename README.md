@@ -114,7 +114,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ### 📥 Clonar el Repositorio
 
 ```bash
-git clone https://github.com/rudy-gomez/forohub.git
+https://github.com/rudy-gomez/ForoHub.git
 cd forohub-challenge
 ```
 
